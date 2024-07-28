@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="">Aca va el formulario</Text>
+      <Text className="text-white">Aca va el formulario</Text>
     </View>
   );
 }
